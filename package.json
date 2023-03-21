@@ -1,0 +1,19 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "serve": "serve dist/",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "serve": "^14.2.0",
+    "three": "^0.150.1"
+  }
+}
